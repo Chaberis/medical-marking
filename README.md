@@ -5,4 +5,4 @@
 ### Setup and run:
 * Clone repo
 * Execute `pip install -r requirements.txt`
-* Use notebook or configure it by internal comments
+* Use notebook 
