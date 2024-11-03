@@ -1,2 +1,8 @@
 # medical-marking
-Analysis of the quality of medical markup
+
+### analysis of the quality of medical markup
+
+### Setup and run:
+* Clone repo
+* Execute `pip install -r requirements.txt`
+* Use notebook or configure it by internal comments
